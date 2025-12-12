@@ -1,0 +1,8 @@
+{
+  "name": "Interview with Ngoni",
+  "description": "A conversational job interview with an AI candidate, Ngoni Shaani. Capable of recording interview notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
